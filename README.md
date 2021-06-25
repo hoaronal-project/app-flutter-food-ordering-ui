@@ -1,11 +1,8 @@
 # Food Ordering App UI
 
-- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://youtu.be/rC5McZgPBVc)
+- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 
-![Food App](https://user-images.githubusercontent.com/16510597/93414772-2ff7b080-f8cc-11ea-8fb4-e0f6e1e52f98.jpg)
-
-A new Flutter project.
+- Email: sangvaleap.vanny@gmail.com
 
 ## Getting Started
 
